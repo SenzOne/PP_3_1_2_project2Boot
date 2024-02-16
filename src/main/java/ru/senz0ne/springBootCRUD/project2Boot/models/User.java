@@ -1,8 +1,7 @@
 package ru.senz0ne.springBootCRUD.project2Boot.models;
 
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.util.Objects;
 
 @Entity

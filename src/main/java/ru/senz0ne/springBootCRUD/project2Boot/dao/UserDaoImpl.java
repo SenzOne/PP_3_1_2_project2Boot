@@ -1,10 +1,11 @@
 package ru.senz0ne.springBootCRUD.project2Boot.dao;
 
-import jakarta.persistence.EntityManager;
-import jakarta.persistence.PersistenceContext;
+
 import org.springframework.stereotype.Repository;
 import ru.senz0ne.springBootCRUD.project2Boot.models.User;
 
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
 import java.util.List;
 
 @Repository
